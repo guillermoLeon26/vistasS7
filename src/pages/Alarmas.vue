@@ -694,7 +694,7 @@
               id="layer1"
               transform="translate(0,-502.36216)">
               <rect
-                style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.86299995;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#acacea;fill-opacity:0.12857145;fill-rule:evenodd;stroke:#000000;stroke-width:0.26999998;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+                style="fill: #2196F3;"
                 id="rect7394-3"
                 width="871.07544"
                 height="515.1864"
@@ -729,7 +729,7 @@
                     transform="matrix(0.72012013,0,0,0.72012013,37.441995,454.17847)" />
                 </g>
                 <circle
-                  style="fill:url(#radialGradient5413);fill-opacity:1;stroke:#000000;stroke-width:2.33898544;stroke-opacity:1"
+                  :class="estadoAlarma1"
                   id="circle3995-1-2"
                   r="26.712"
                   cy="37.594002"
@@ -748,7 +748,7 @@
                   y="571.61792"
                   style="font-size:25px;line-height:1.25">RESUMEN DE ALARMAS</tspan></text>
               <rect
-                style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#222019;fill-opacity:0.2357143;fill-rule:evenodd;stroke:none;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:5;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+                style="fill: #CDDC39;"
                 id="rect8677-2-8-2-8-7-9-6"
                 width="305.73904"
                 height="38.136524"
@@ -783,7 +783,7 @@
                     transform="matrix(0.72012013,0,0,0.72012013,37.441995,454.17847)" />
                 </g>
                 <circle
-                  style="fill:url(#radialGradient5413-0);fill-opacity:1;stroke:#000000;stroke-width:2.33898544;stroke-opacity:1"
+                  :class="estadoAlarma2"
                   id="circle3995-1-2-0"
                   r="26.712"
                   cy="37.594002"
@@ -791,7 +791,7 @@
                   transform="matrix(0.93895433,0,0,0.93895433,334.55963,445.95161)" />
               </g>
               <rect
-                style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#222019;fill-opacity:0.2357143;fill-rule:evenodd;stroke:none;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:5;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+                style="fill: #CDDC39;"
                 id="rect8677-2-8-2-8-7-9-6-0"
                 width="305.73904"
                 height="38.136524"
@@ -826,7 +826,7 @@
                     transform="matrix(0.72012013,0,0,0.72012013,37.441995,454.17847)" />
                 </g>
                 <circle
-                  style="fill:url(#radialGradient5413-2);fill-opacity:1;stroke:#000000;stroke-width:2.33898544;stroke-opacity:1"
+                  :class="estadoAlarma3"
                   id="circle3995-1-2-2"
                   r="26.712"
                   cy="37.594002"
@@ -834,7 +834,7 @@
                   transform="matrix(0.93895433,0,0,0.93895433,334.55963,445.95161)" />
               </g>
               <rect
-                style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#222019;fill-opacity:0.2357143;fill-rule:evenodd;stroke:none;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:5;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+                style="fill: #CDDC39;"
                 id="rect8677-2-8-2-8-7-9-6-00"
                 width="305.73904"
                 height="38.136524"
@@ -869,7 +869,7 @@
                     transform="matrix(0.72012013,0,0,0.72012013,37.441995,454.17847)" />
                 </g>
                 <circle
-                  style="fill:url(#radialGradient5413-02);fill-opacity:1;stroke:#000000;stroke-width:2.33898544;stroke-opacity:1"
+                  :class="estadoAlarma4"
                   id="circle3995-1-2-3"
                   r="26.712"
                   cy="37.594002"
@@ -877,7 +877,7 @@
                   transform="matrix(0.93895433,0,0,0.93895433,334.55963,445.95161)" />
               </g>
               <rect
-                style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#222019;fill-opacity:0.2357143;fill-rule:evenodd;stroke:none;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:5;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+                style="fill: #CDDC39;"
                 id="rect8677-2-8-2-8-7-9-6-5"
                 width="305.73904"
                 height="38.136524"
@@ -912,7 +912,7 @@
                     transform="matrix(0.72012013,0,0,0.72012013,37.441995,454.17847)" />
                 </g>
                 <circle
-                  style="fill:url(#radialGradient5413-5);fill-opacity:1;stroke:#000000;stroke-width:2.33898544;stroke-opacity:1"
+                  :class="estadoAlarma5"
                   id="circle3995-1-2-1"
                   r="26.712"
                   cy="37.594002"
@@ -920,7 +920,7 @@
                   transform="matrix(0.93895433,0,0,0.93895433,334.55963,445.95161)" />
               </g>
               <rect
-                style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#222019;fill-opacity:0.2357143;fill-rule:evenodd;stroke:none;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:5;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+                style="fill: #CDDC39;"
                 id="rect8677-2-8-2-8-7-9-6-01"
                 width="305.73904"
                 height="38.136524"
@@ -955,7 +955,7 @@
                     transform="matrix(0.72012013,0,0,0.72012013,37.441995,454.17847)" />
                 </g>
                 <circle
-                  style="fill:url(#radialGradient5413-1);fill-opacity:1;stroke:#000000;stroke-width:2.33898544;stroke-opacity:1"
+                  :class="estadoAlarma6"
                   id="circle3995-1-2-8"
                   r="26.712"
                   cy="37.594002"
@@ -963,7 +963,7 @@
                   transform="matrix(0.93895433,0,0,0.93895433,334.55963,445.95161)" />
               </g>
               <rect
-                style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#222019;fill-opacity:0.2357143;fill-rule:evenodd;stroke:none;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:5;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+                style="fill: #CDDC39;"
                 id="rect8677-2-8-2-8-7-9-6-9"
                 width="305.73904"
                 height="38.136524"
@@ -998,7 +998,7 @@
                     transform="matrix(0.72012013,0,0,0.72012013,37.441995,454.17847)" />
                 </g>
                 <circle
-                  style="fill:url(#radialGradient5413-4);fill-opacity:1;stroke:#000000;stroke-width:2.33898544;stroke-opacity:1"
+                  :class="estadoAlarma7"
                   id="circle3995-1-2-6"
                   r="26.712"
                   cy="37.594002"
@@ -1006,7 +1006,7 @@
                   transform="matrix(0.93895433,0,0,0.93895433,334.55963,445.95161)" />
               </g>
               <rect
-                style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#222019;fill-opacity:0.2357143;fill-rule:evenodd;stroke:none;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:5;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+                style="fill: #CDDC39;"
                 id="rect8677-2-8-2-8-7-9-6-3"
                 width="305.73904"
                 height="38.136524"
@@ -1041,7 +1041,7 @@
                     transform="matrix(0.72012013,0,0,0.72012013,37.441995,454.17847)" />
                 </g>
                 <circle
-                  style="fill:url(#radialGradient5413-6);fill-opacity:1;stroke:#000000;stroke-width:2.33898544;stroke-opacity:1"
+                  :class="estadoAlarma8"
                   id="circle3995-1-2-03"
                   r="26.712"
                   cy="37.594002"
@@ -1049,7 +1049,7 @@
                   transform="matrix(0.93895433,0,0,0.93895433,334.55963,445.95161)" />
               </g>
               <rect
-                style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#222019;fill-opacity:0.2357143;fill-rule:evenodd;stroke:none;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:5;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+                style="fill: #CDDC39;"
                 id="rect8677-2-8-2-8-7-9-6-7"
                 width="305.73904"
                 height="38.136524"
@@ -1084,7 +1084,7 @@
                     transform="matrix(0.72012013,0,0,0.72012013,37.441995,454.17847)" />
                 </g>
                 <circle
-                  style="fill:url(#radialGradient5413-0-9);fill-opacity:1;stroke:#000000;stroke-width:2.33898544;stroke-opacity:1"
+                  :class="estadoAlarma9"
                   id="circle3995-1-2-0-8"
                   r="26.712"
                   cy="37.594002"
@@ -1092,7 +1092,7 @@
                   transform="matrix(0.93895433,0,0,0.93895433,334.55963,445.95161)" />
               </g>
               <rect
-                style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#222019;fill-opacity:0.2357143;fill-rule:evenodd;stroke:none;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:5;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+                style="fill: #CDDC39;"
                 id="rect8677-2-8-2-8-7-9-6-0-3"
                 width="305.73904"
                 height="38.136524"
@@ -1127,7 +1127,7 @@
                     transform="matrix(0.72012013,0,0,0.72012013,37.441995,454.17847)" />
                 </g>
                 <circle
-                  style="fill:url(#radialGradient5413-2-1);fill-opacity:1;stroke:#000000;stroke-width:2.33898544;stroke-opacity:1"
+                  :class="estadoAlarma10"
                   id="circle3995-1-2-2-6"
                   r="26.712"
                   cy="37.594002"
@@ -1135,7 +1135,7 @@
                   transform="matrix(0.93895433,0,0,0.93895433,334.55963,445.95161)" />
               </g>
               <rect
-                style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#222019;fill-opacity:0.2357143;fill-rule:evenodd;stroke:none;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:5;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+                style="fill: #CDDC39;"
                 id="rect8677-2-8-2-8-7-9-6-00-4"
                 width="305.73904"
                 height="38.136524"
@@ -1170,7 +1170,7 @@
                     transform="matrix(0.72012013,0,0,0.72012013,37.441995,454.17847)" />
                 </g>
                 <circle
-                  style="fill:url(#radialGradient5413-02-7);fill-opacity:1;stroke:#000000;stroke-width:2.33898544;stroke-opacity:1"
+                  :class="estadoAlarma11"
                   id="circle3995-1-2-3-3"
                   r="26.712"
                   cy="37.594002"
@@ -1178,7 +1178,7 @@
                   transform="matrix(0.93895433,0,0,0.93895433,334.55963,445.95161)" />
               </g>
               <rect
-                style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#222019;fill-opacity:0.2357143;fill-rule:evenodd;stroke:none;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:5;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+                style="fill: #CDDC39;"
                 id="rect8677-2-8-2-8-7-9-6-5-7"
                 width="305.73904"
                 height="38.136524"
@@ -1213,7 +1213,7 @@
                     transform="matrix(0.72012013,0,0,0.72012013,37.441995,454.17847)" />
                 </g>
                 <circle
-                  style="fill:url(#radialGradient5413-5-4);fill-opacity:1;stroke:#000000;stroke-width:2.33898544;stroke-opacity:1"
+                  :class="estadoAlarma12"
                   id="circle3995-1-2-1-4"
                   r="26.712"
                   cy="37.594002"
@@ -1221,7 +1221,7 @@
                   transform="matrix(0.93895433,0,0,0.93895433,334.55963,445.95161)" />
               </g>
               <rect
-                style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#222019;fill-opacity:0.2357143;fill-rule:evenodd;stroke:none;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:5;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+                style="fill: #CDDC39;"
                 id="rect8677-2-8-2-8-7-9-6-01-0"
                 width="305.73904"
                 height="38.136524"
@@ -1256,7 +1256,7 @@
                     transform="matrix(0.72012013,0,0,0.72012013,37.441995,454.17847)" />
                 </g>
                 <circle
-                  style="fill:url(#radialGradient5413-1-5);fill-opacity:1;stroke:#000000;stroke-width:2.33898544;stroke-opacity:1"
+                  :class="estadoAlarma13"
                   id="circle3995-1-2-8-5"
                   r="26.712"
                   cy="37.594002"
@@ -1264,8 +1264,7 @@
                   transform="matrix(0.93895433,0,0,0.93895433,334.55963,445.95161)" />
               </g>
               <rect
-                style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#222019;fill-opacity:0.2357143;fill-rule:evenodd;stroke:none;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:5;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
-                id="rect8677-2-8-2-8-7-9-6-9-3"
+                style="fill: #CDDC39;"
                 width="305.73904"
                 height="38.136524"
                 x="483.0087"
@@ -1303,7 +1302,7 @@
                   id="tspan914-4-6-1-95-62-4"
                   x="501.69836"
                   y="762.47089"
-                  style="font-size:15px;line-height:1.05999994">MAQUINA IZADA</tspan></text>
+                  style="font-size:15px;line-height:1.05999994">MAQUINA IZADA (FCSC)</tspan></text>
               <text
                 xml:space="preserve"
                 style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -1314,7 +1313,7 @@
                   id="tspan914-4-6-1-95-62-19"
                   x="57.171856"
                   y="856.11035"
-                  style="font-size:15px;line-height:1.05999994">PERTA ACEITE  - LIV2</tspan></text>
+                  style="font-size:15px;line-height:1.05999994">NIVEL ACEITE  - LIV2</tspan></text>
               <text
                 xml:space="preserve"
                 style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -1402,7 +1401,7 @@
                   id="tspan914-4-6-1-95-62-4-2-9"
                   x="57.938316"
                   y="806.87689"
-                  style="font-size:15px;line-height:1.05999994">FILTROS BYPASS PR2</tspan></text>
+                  style="font-size:15px;line-height:1.05999994">FILTROS BYPASS PR10</tspan></text>
               <text
                 xml:space="preserve"
                 style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -1469,7 +1468,140 @@
 
 <script>
 export default {
-  name: 'MovimientoHidraulico'
+  name: 'Alarmas',
+
+  data: () => ({
+    comMqtt: {
+      alarma1: false,
+      alarma2: false,
+      alarma3: true,
+      alarma4: false,
+      alarma5: false,
+      alarma6: true,
+      alarma7: false,
+      alarma8: false,
+      alarma9: false,
+      alarma10: true,
+      alarma11: false,
+      alarma12: false,
+      alarma13: true
+    }
+  }),
+  computed: {
+    estadoAlarma1 () {
+      return this.comMqtt.alarma1 ? { 'alarma-on': true } : { 'alarma-off': true }
+    },
+    estadoAlarma2 () {
+      return this.comMqtt.alarma2 ? { 'alarma-on': true } : { 'alarma-off': true }
+    },
+    estadoAlarma3 () {
+      return this.comMqtt.alarma3 ? { 'alarma-on': true } : { 'alarma-off': true }
+    },
+    estadoAlarma4 () {
+      return this.comMqtt.alarma4 ? { 'alarma-on': true } : { 'alarma-off': true }
+    },
+    estadoAlarma5 () {
+      return this.comMqtt.alarma5 ? { 'alarma-on': true } : { 'alarma-off': true }
+    },
+    estadoAlarma6 () {
+      return this.comMqtt.alarma6 ? { 'alarma-off': true } : { 'alarma-neutra': true }
+    },
+    estadoAlarma7 () {
+      return this.comMqtt.alarma7 ? { 'alarma-on': true } : { 'alarma-off': true }
+    },
+    estadoAlarma8 () {
+      return this.comMqtt.alarma8 ? { 'alarma-on': true } : { 'alarma-off': true }
+    },
+    estadoAlarma9 () {
+      return this.comMqtt.alarma9 ? { 'alarma-on': true } : { 'alarma-off': true }
+    },
+    estadoAlarma10 () {
+      return this.comMqtt.alarma10 ? { 'alarma-on': true } : { 'alarma-off': true }
+    },
+    estadoAlarma11 () {
+      return this.comMqtt.alarma11 ? { 'alarma-on': true } : { 'alarma-off': true }
+    },
+    estadoAlarma12 () {
+      return this.comMqtt.alarma12 ? { 'alarma-on': true } : { 'alarma-off': true }
+    },
+    estadoAlarma13 () {
+      return this.comMqtt.alarma13 ? { 'alarma-on': true } : { 'alarma-off': true }
+    }
+  },
+
+  mqtt: {
+    'filtroRegresoPr6' (data) {
+      this.comMqtt.alarma1 = JSON.parse(data.toString()) === 1
+    },
+    'nivelAceiteLv1' (data) {
+      this.comMqtt.alarma2 = JSON.parse(data.toString()) === 1
+    },
+    'nivelAceiteAdvertencia' (data) {
+      this.comMqtt.alarma3 = JSON.parse(data.toString()) === 1
+    },
+    'filtroBypassPr10' (data) {
+      this.comMqtt.alarma4 = JSON.parse(data.toString()) === 1
+    },
+    'nivelAceiteLv2' (data) {
+      this.comMqtt.alarma5 = JSON.parse(data.toString()) === 1
+    },
+    'aspiracionBombas' (data) {
+      this.comMqtt.alarma6 = JSON.parse(data.toString()) === 1
+    },
+    'nivelGrasa' (data) {
+      this.comMqtt.alarma7 = JSON.parse(data.toString()) === 1
+    },
+    'nivelAceiteLv4' (data) {
+      this.comMqtt.alarma8 = JSON.parse(data.toString()) === 1
+    },
+    'lubricacionInterrumpida' (data) {
+      this.comMqtt.alarma9 = JSON.parse(data.toString()) === 1
+    },
+    'maquinaIzada' (data) {
+      this.comMqtt.alarma10 = JSON.parse(data.toString()) === 1
+    },
+    'temperaturaMayor70' (data) {
+      this.comMqtt.alarma11 = JSON.parse(data.toString()) === 1
+    },
+    'temperaturaMayor65' (data) {
+      this.comMqtt.alarma12 = JSON.parse(data.toString()) === 1
+    },
+    'filtrosPilotajePr12' (data) {
+      this.comMqtt.alarma13 = JSON.parse(data.toString()) === 1
+    }
+  },
+
+  mounted () {
+    this.$mqtt.subscribe('filtroRegresoPr6')
+    this.$mqtt.subscribe('nivelAceiteLv1')
+    this.$mqtt.subscribe('nivelAceiteAdvertencia')
+    this.$mqtt.subscribe('filtroBypassPr10')
+    this.$mqtt.subscribe('nivelAceiteLv2')
+    this.$mqtt.subscribe('aspiracionBombas')
+    this.$mqtt.subscribe('nivelGrasa')
+    this.$mqtt.subscribe('nivelAceiteLv4')
+    this.$mqtt.subscribe('lubricacionInterrumpida')
+    this.$mqtt.subscribe('maquinaIzada')
+    this.$mqtt.subscribe('temperaturaMayor70')
+    this.$mqtt.subscribe('temperaturaMayor65')
+    this.$mqtt.subscribe('filtrosPilotajePr12')
+  },
+
+  destroyed () {
+    this.$mqtt.unsubscribe('filtroRegresoPr6')
+    this.$mqtt.unsubscribe('nivelAceiteLv1')
+    this.$mqtt.unsubscribe('nivelAceiteAdvertencia')
+    this.$mqtt.unsubscribe('filtroBypassPr10')
+    this.$mqtt.unsubscribe('nivelAceiteLv2')
+    this.$mqtt.unsubscribe('aspiracionBombas')
+    this.$mqtt.unsubscribe('nivelGrasa')
+    this.$mqtt.unsubscribe('nivelAceiteLv4')
+    this.$mqtt.unsubscribe('lubricacionInterrumpida')
+    this.$mqtt.unsubscribe('maquinaIzada')
+    this.$mqtt.unsubscribe('temperaturaMayor70')
+    this.$mqtt.unsubscribe('temperaturaMayor65')
+    this.$mqtt.unsubscribe('filtrosPilotajePr12')
+  }
 }
 </script>
 
@@ -1478,4 +1610,19 @@ export default {
     max-width: 100%;
     height: auto;
   }
+  .alarma-on {
+    fill: url(#radialGradient5413);
+    stroke: rgb(0, 0, 0);
+    stroke-width: 2.33899;
+  }
+  .alarma-off {
+    fill: red;
+    stroke: rgb(0, 0, 0);
+    stroke-width: 2.33899;
+  }
+  .alarma-neutra {
+    fill: black;
+    stroke: rgb(0, 0, 0);
+    stroke-width: 2.33899;
+    }
 </style>

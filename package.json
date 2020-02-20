@@ -32,5 +32,15 @@
   },
   "browserslist": [
     "last 1 version, not dead, ie >= 11"
-  ]
+  ],
+  "main": ".eslintrc.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guillermoLeon26/vistasS7.git"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guillermoLeon26/vistasS7/issues"
+  },
+  "homepage": "https://github.com/guillermoLeon26/vistasS7#readme"
 }

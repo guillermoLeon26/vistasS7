@@ -284,7 +284,7 @@
             id="layer1"
             transform="translate(0,-502.36211)">
             <rect
-              style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.86299995;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#acacea;fill-opacity:0.12857145;fill-rule:evenodd;stroke:#000000;stroke-width:0.26999998;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+              style="fill: #2196F3;"
               id="rect7394-3"
               width="871.07544"
               height="515.1864"
@@ -303,49 +303,49 @@
                 y="585.90869"
                 style="font-size:25px">TRANSDUCTORES DE PRESION</tspan></text>
             <rect
-              style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#222019;fill-opacity:0.2357143;fill-rule:evenodd;stroke:none;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:5;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+              style="fill: #CDDC39;"
               id="rect8677-2-8-2-8-7-9-6"
               width="719.90552"
               height="38.136524"
               x="86.255463"
               y="629.00873" />
             <rect
-              style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#222019;fill-opacity:0.2357143;fill-rule:evenodd;stroke:none;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:5;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+              style="fill: #CDDC39"
               id="rect8677-2-8-2-8-7-9-6-0"
               width="718.57806"
               height="38.136524"
               x="86.255463"
               y="681.14526" />
             <rect
-              style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#222019;fill-opacity:0.2357143;fill-rule:evenodd;stroke:none;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:5;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+              style="fill: #CDDC39"
               id="rect8677-2-8-2-8-7-9-6-00"
               width="717.25061"
               height="38.136524"
               x="86.255463"
               y="733.2818" />
             <rect
-              style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#222019;fill-opacity:0.2357143;fill-rule:evenodd;stroke:none;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:5;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+              style="fill: #CDDC39"
               id="rect8677-2-8-2-8-7-9-6-5"
               width="715.9231"
               height="38.136524"
               x="86.255463"
               y="785.41833" />
             <rect
-              style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#222019;fill-opacity:0.2357143;fill-rule:evenodd;stroke:none;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:5;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+              style="fill: #CDDC39"
               id="rect8677-2-8-2-8-7-9-6-01"
               width="717.25061"
               height="38.136524"
               x="86.255463"
               y="837.55487" />
             <rect
-              style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#222019;fill-opacity:0.2357143;fill-rule:evenodd;stroke:none;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:5;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+              style="fill: #CDDC39"
               id="rect8677-2-8-2-8-7-9-6-9"
               width="715.9231"
               height="38.136524"
               x="86.255463"
               y="889.69141" />
             <rect
-              style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#222019;fill-opacity:0.2357143;fill-rule:evenodd;stroke:none;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:5;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+              style="fill: #CDDC39"
               id="rect8677-2-8-2-8-7-9-6-3"
               width="717.25061"
               height="38.136524"
@@ -430,8 +430,8 @@
                 x="120.37334"
                 y="810.45984">PRESION EN LINEA SC</tspan></text>
             <image
-              y="521.31293"
-              x="783.18274"
+              y="523.31293"
+              x="783.6"
               id="image2246"
               xlink:href="data:image/png;base64,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 RU5ErkJggg== "
               preserveAspectRatio="none"
@@ -458,7 +458,7 @@
                 sodipodi:role="line"
                 id="tspan914-4-6-1"
                 x="625.20874"
-                y="655.89331">0.00</tspan></text>
+                y="655.89331">{{comMqtt.presionPa}}</tspan></text>
             <text
               xml:space="preserve"
               style="font-style:normal;font-weight:normal;font-size:16.25px;line-height:105.99999428%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -480,7 +480,7 @@
                 sodipodi:role="line"
                 id="tspan914-4-6-1-6"
                 x="626.59253"
-                y="706.88562">0.00</tspan></text>
+                y="706.88562">{{comMqtt.presionSa}}</tspan></text>
             <text
               xml:space="preserve"
               style="font-style:normal;font-weight:normal;font-size:16.25px;line-height:105.99999428%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -502,7 +502,7 @@
                 sodipodi:role="line"
                 id="tspan914-4-6-1-3"
                 x="625.26514"
-                y="761.3114">0.00</tspan></text>
+                y="761.3114">{{comMqtt.presionSb}}</tspan></text>
             <text
               xml:space="preserve"
               style="font-style:normal;font-weight:normal;font-size:16.25px;line-height:105.99999428%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -524,7 +524,7 @@
                 sodipodi:role="line"
                 id="tspan914-4-6-1-0"
                 x="626.59253"
-                y="810.42725">0.00</tspan></text>
+                y="810.42725">{{comMqtt.presionSc}}</tspan></text>
             <text
               xml:space="preserve"
               style="font-style:normal;font-weight:normal;font-size:16.25px;line-height:105.99999428%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -546,7 +546,7 @@
                 sodipodi:role="line"
                 id="tspan914-4-6-1-7"
                 x="626.59259"
-                y="864.85297">0.00</tspan></text>
+                y="864.85297">{{comMqtt.presionRa}}</tspan></text>
             <text
               xml:space="preserve"
               style="font-style:normal;font-weight:normal;font-size:16.25px;line-height:105.99999428%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -568,7 +568,7 @@
                 sodipodi:role="line"
                 id="tspan914-4-6-1-1"
                 x="626.59259"
-                y="912.64142">0.00</tspan></text>
+                y="912.64142">{{comMqtt.presionRb}}</tspan></text>
             <text
               xml:space="preserve"
               style="font-style:normal;font-weight:normal;font-size:16.25px;line-height:105.99999428%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -590,7 +590,7 @@
                 sodipodi:role="line"
                 id="tspan914-4-6-1-14"
                 x="625.26508"
-                y="967.06714">0.00</tspan></text>
+                y="967.06714">{{comMqtt.presionRc}}</tspan></text>
           </g>
         </svg>
       </div>
@@ -600,7 +600,59 @@
 
 <script>
 export default {
-  name: 'Transductores'
+  name: 'Transductores',
+  data: () => ({
+    comMqtt: {
+      presionPa: 20.00,
+      presionSa: 30.00,
+      presionSb: 40.00,
+      presionSc: 50.00,
+      presionRa: 60.00,
+      presionRb: 70.00,
+      presionRc: 80.52
+    }
+  }),
+  mqtt: {
+    'presionAcumulador' (data) {
+      this.comMqtt.presionPa = JSON.parse(data.toString())
+    },
+    'presionLineaSa' (data) {
+      this.comMqtt.presionSa = JSON.parse(data.toString())
+    },
+    'presionLineaSb' (data) {
+      this.comMqtt.presionSb = JSON.parse(data.toString())
+    },
+    'presionLineaSc' (data) {
+      this.comMqtt.presionSc = JSON.parse(data.toString())
+    },
+    'presionLineaRa' (data) {
+      this.comMqtt.presionRa = JSON.parse(data.toString())
+    },
+    'presionLineaRb' (data) {
+      this.comMqtt.presionRb = JSON.parse(data.toString())
+    },
+    'presionLineaRc' (data) {
+      this.comMqtt.presionRc = JSON.parse(data.toString())
+    }
+  },
+  mounted () {
+    this.$mqtt.subscribe('presionAcumulador')
+    this.$mqtt.subscribe('presionLineaSa')
+    this.$mqtt.subscribe('presionLineaSb')
+    this.$mqtt.subscribe('presionLineaSc')
+    this.$mqtt.subscribe('presionLineaRa')
+    this.$mqtt.subscribe('presionLineaRb')
+    this.$mqtt.subscribe('presionLineaRc')
+  },
+  destroyed () {
+    this.$mqtt.unsubscribe('presionAcumulador')
+    this.$mqtt.unsubscribe('presionLineaSa')
+    this.$mqtt.unsubscribe('presionLineaSb')
+    this.$mqtt.unsubscribe('presionLineaSc')
+    this.$mqtt.unsubscribe('presionLineaRa')
+    this.$mqtt.unsubscribe('presionLineaRb')
+    this.$mqtt.unsubscribe('presionLineaRc')
+  }
 
 }
 </script>

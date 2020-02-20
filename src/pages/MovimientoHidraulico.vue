@@ -632,21 +632,21 @@
             id="layer1"
             transform="translate(0,-502.36215)">
             <rect
-              style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.86299995;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#acacea;fill-opacity:0.12857145;fill-rule:evenodd;stroke:#000000;stroke-width:0.26805305;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+              style="fill: #2196F3;"
               id="rect7394-3"
               width="871.07544"
               height="541.81671"
               x="12.949751"
               y="507.79727" />
             <rect
-              style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.728;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#00d596;fill-opacity:0.8857143;fill-rule:evenodd;stroke:none;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:5;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+              style="fill: #CDDC39;"
               id="rect1014-8-8-6-9"
               width="312.2868"
               height="36.663582"
               x="562.56201"
               y="708.97778" />
             <rect
-              style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.728;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#00d596;fill-opacity:0.8857143;fill-rule:evenodd;stroke:none;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:5;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+              style="fill: #CDDC39;"
               id="rect1014-8-8-6"
               width="312.2868"
               height="36.663582"
@@ -1046,7 +1046,7 @@
               style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ef3e0a;fill-opacity:1;fill-rule:nonzero;stroke:#262e0a;stroke-width:0.50002557;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:5.30000019;stroke-dasharray:2.00010261, 2.00010261;stroke-dashoffset:0;stroke-opacity:0;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
               id="rect12985-1-1"
               width="15.8"
-              height="56.036762"
+              :height="comMqtt.movCilindro2"
               x="-632.5"
               y="172.97305"
               inkscape:label="{&quot;attr&quot;:&quot;bar&quot;,&quot;max&quot;:100,&quot;min&quot;:0,&quot;tag&quot;:&quot;Nivel_Tqe&quot;}"
@@ -1218,7 +1218,7 @@
               style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ef3e0a;fill-opacity:1;fill-rule:nonzero;stroke:#262e0a;stroke-width:0.50002557;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:5.30000019;stroke-dasharray:2.00010261, 2.00010261;stroke-dashoffset:0;stroke-opacity:0;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
               id="rect12985-1-0"
               width="15.80"
-              height="56.036762"
+              :height="comMqtt.movCilindro3"
               x="-683.5"
               y="174.10052"
               inkscape:label="{&quot;attr&quot;:&quot;bar&quot;,&quot;max&quot;:100,&quot;min&quot;:0,&quot;tag&quot;:&quot;Nivel_Tqe&quot;}"
@@ -1390,13 +1390,13 @@
               style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ef3e0a;fill-opacity:1;fill-rule:nonzero;stroke:#262e0a;stroke-width:0.50002557;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:5.30000019;stroke-dasharray:2.00010261, 2.00010261;stroke-dashoffset:0;stroke-opacity:0;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
               id="rect12985-1-4"
               width="15.8"
-              height="56.036762"
+              :height="comMqtt.movCilindro4"
               x="-737.5"
               y="175.22252"
               inkscape:label="{&quot;attr&quot;:&quot;bar&quot;,&quot;max&quot;:100,&quot;min&quot;:0,&quot;tag&quot;:&quot;Nivel_Tqe&quot;}"
               transform="matrix(-0.00207234,-0.99999785,0.99986551,-0.01639991,0,0)" />
             <rect
-              style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#222019;fill-opacity:0.2357143;fill-rule:evenodd;stroke:none;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:5;stroke-opacity:1;filter:url(#filter8835-4-1);color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+              :class="limiteFca1"
               id="rect8677-2-8"
               width="26.074308"
               height="22.441427"
@@ -1415,7 +1415,7 @@
                 y="573.27905"
                 style="font-size:17.5px;line-height:1.05999994">FCA1</tspan></text>
             <rect
-              style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#222019;fill-opacity:0.2357143;fill-rule:evenodd;stroke:none;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:5;stroke-opacity:1;filter:url(#filter8835-4-1-7);color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+              :class="limiteFcb1"
               id="rect8677-2-8-6"
               width="26.074308"
               height="22.441427"
@@ -1434,7 +1434,7 @@
                 y="626.05408"
                 style="font-size:17.5px;line-height:1.05999994">FCB1</tspan></text>
             <rect
-              style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#222019;fill-opacity:0.2357143;fill-rule:evenodd;stroke:none;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:5;stroke-opacity:1;filter:url(#filter8835-4-1-2);color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+              :class="limiteFcc1"
               id="rect8677-2-8-2"
               width="26.074308"
               height="22.441427"
@@ -1453,7 +1453,7 @@
                 y="678.9809"
                 style="font-size:17.5px;line-height:1.05999994">FCC1</tspan></text>
             <rect
-              style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#222019;fill-opacity:0.2357143;fill-rule:evenodd;stroke:none;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:5;stroke-opacity:1;filter:url(#filter8835-4-1-7-9);color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+              :class="limiteFcd1"
               id="rect8677-2-8-6-6"
               width="26.074308"
               height="22.441427"
@@ -1472,7 +1472,7 @@
                 y="727.75592"
                 style="font-size:17.5px;line-height:1.05999994">FCD1</tspan></text>
             <rect
-              style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#222019;fill-opacity:0.2357143;fill-rule:evenodd;stroke:none;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:5;stroke-opacity:1;filter:url(#filter8835-4-1-4);color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+              :class="limiteFca4"
               id="rect8677-2-8-5"
               width="26.074308"
               height="22.441427"
@@ -1491,7 +1491,7 @@
                 y="774.70587"
                 style="font-size:22.5px;line-height:1.25">SECUENCIA</tspan></text>
             <rect
-              style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#222019;fill-opacity:0.2357143;fill-rule:evenodd;stroke:none;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:5;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+              :class="finEstadoEmpujeSujetaChapa"
               id="rect8677-2-8-2-8-7-9-80"
               width="305.73904"
               height="38.136524"
@@ -1509,7 +1509,7 @@
                 y="860.99323"
                 style="font-size:15px;line-height:1.05999994">FINALIZADO</tspan></text>
             <rect
-              style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#222019;fill-opacity:0.2357143;fill-rule:evenodd;stroke:none;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:5;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+              :class="finEstadoEmpujeCuchillo"
               id="rect8677-2-8-2-8-7-9-6-8"
               width="305.73904"
               height="38.136524"
@@ -1527,7 +1527,7 @@
                 y="904.43408"
                 style="font-size:15px;line-height:1.05999994">FINALIZADO</tspan></text>
             <rect
-              style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#222019;fill-opacity:0.2357143;fill-rule:evenodd;stroke:none;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:5;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+              :class="finEstadoRegresoCuchillo"
               id="rect8677-2-8-2-8-7-9-80-4"
               width="305.73904"
               height="38.136524"
@@ -1545,7 +1545,7 @@
                 y="944.46887"
                 style="font-size:15px;line-height:1.05999994">FINALIZADO</tspan></text>
             <rect
-              style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#222019;fill-opacity:0.2357143;fill-rule:evenodd;stroke:none;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:5;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+              :class="finEstadoRegresoSujetaChapa"
               id="rect8677-2-8-2-8-7-9-6-7"
               width="305.73904"
               height="38.136524"
@@ -1563,7 +1563,7 @@
                 y="987.90973"
                 style="font-size:15px;line-height:1.05999994">FINALIZADO</tspan></text>
             <rect
-              style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#222019;fill-opacity:0.2357143;fill-rule:evenodd;stroke:none;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:5;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+              :class="finEstadoRegresoTransversal"
               id="rect8677-2-8-2-8-7-9-80-1"
               width="305.73904"
               height="38.136524"
@@ -1599,7 +1599,7 @@
                 y="820.95844"
                 style="font-size:15px;line-height:1.05999994">EMPUJE TRANSVERSAL</tspan></text>
             <rect
-              style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#222019;fill-opacity:0.2357143;fill-rule:evenodd;stroke:none;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:5;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+              :class="estadoEmpujeSujetaChapa"
               id="rect8677-2-8-2-8-7-9-80-13"
               width="305.73904"
               height="38.136524"
@@ -1617,7 +1617,7 @@
                 y="860.99323"
                 style="font-size:15px;line-height:1.05999994">EMPUJE SUJETA CHAPA</tspan></text>
             <rect
-              style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#222019;fill-opacity:0.2357143;fill-rule:evenodd;stroke:none;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:5;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+              :class="estadoEmpujeCuchillo"
               id="rect8677-2-8-2-8-7-9-6-8-7"
               width="305.73904"
               height="38.136524"
@@ -1635,7 +1635,7 @@
                 y="904.43408"
                 style="font-size:15px;line-height:1.05999994">EMPUJE CUCHILLO</tspan></text>
             <rect
-              style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#222019;fill-opacity:0.2357143;fill-rule:evenodd;stroke:none;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:5;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+              :class="estadoRegresoCuchillo"
               id="rect8677-2-8-2-8-7-9-80-4-5"
               width="305.73904"
               height="38.136524"
@@ -1653,7 +1653,7 @@
                 y="944.46887"
                 style="font-size:15px;line-height:1.05999994">REGRESO CUCHILLO</tspan></text>
             <rect
-              style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#222019;fill-opacity:0.2357143;fill-rule:evenodd;stroke:none;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:5;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+              :class="estadoRegresoSujetaChapa"
               id="rect8677-2-8-2-8-7-9-6-7-2"
               width="305.73904"
               height="38.136524"
@@ -1671,7 +1671,7 @@
                 y="987.90973"
                 style="font-size:15px;line-height:1.05999994">REGRESO SUJETA CHAPA</tspan></text>
             <rect
-              style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#222019;fill-opacity:0.2357143;fill-rule:evenodd;stroke:none;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:5;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+              :class="estadoRegresoTransversal"
               id="rect8677-2-8-2-8-7-9-80-1-7"
               width="305.73904"
               height="38.136524"
@@ -1689,7 +1689,7 @@
                 y="1027.9445"
                 style="font-size:15px;line-height:1.05999994">REGRESO TRANSVERSAL</tspan></text>
             <rect
-              style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#222019;fill-opacity:0.2357143;fill-rule:evenodd;stroke:none;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:5;stroke-opacity:1;filter:url(#filter8835-4-1-2-7);color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+              :class="limiteFcc4"
               id="rect8677-2-8-2-8"
               width="26.074308"
               height="22.441427"
@@ -1697,7 +1697,7 @@
               y="954.07434"
               transform="matrix(2.2614816,0,0,1.3232065,132.0985,-607.64924)" />
             <rect
-              style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.728;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#00d596;fill-opacity:0.8857143;fill-rule:evenodd;stroke:none;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:5;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+              style="fill: #CDDC39;"
               id="rect1014-8"
               width="312.2868"
               height="36.663582"
@@ -1724,7 +1724,7 @@
                 id="tspan914-4-6-1"
                 x="759.70428"
                 y="572.79755"
-                style="font-size:15px;line-height:1.05999994">0.00</tspan></text>
+                style="font-size:15px;line-height:1.05999994">{{comMqtt.movCilindro1}}</tspan></text>
             <text
               xml:space="preserve"
               style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -1737,7 +1737,7 @@
                 y="574.6701"
                 style="font-size:17.5px;line-height:1.05999994">FCA4</tspan></text>
             <rect
-              style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.728;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#00d596;fill-opacity:0.8857143;fill-rule:evenodd;stroke:none;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:5;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+              style="fill: #CDDC39;"
               id="rect1014-8-8"
               width="312.2868"
               height="36.663582"
@@ -1764,7 +1764,7 @@
                 id="tspan914-4-6-1-5"
                 x="759.70428"
                 y="628.34045"
-                style="font-size:15px;line-height:1.05999994">0.00</tspan></text>
+                style="font-size:15px;line-height:1.05999994">{{comMqtt.movCilindro2}}</tspan></text>
             <text
               xml:space="preserve"
               style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -1786,7 +1786,7 @@
                 id="tspan914-4-6-1-9"
                 x="759.70422"
                 y="682.64984"
-                style="font-size:15px;line-height:1.05999994">0.00</tspan></text>
+                style="font-size:15px;line-height:1.05999994">{{comMqtt.movCilindro3}}</tspan></text>
             <text
               xml:space="preserve"
               style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -1808,9 +1808,9 @@
                 id="tspan914-4-6-1-1"
                 x="760.93781"
                 y="734.95923"
-                style="font-size:15px;line-height:1.05999994">0.00</tspan></text>
+                style="font-size:15px;line-height:1.05999994">{{comMqtt.movCilindro4}}</tspan></text>
             <rect
-              style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#222019;fill-opacity:0.2357143;fill-rule:evenodd;stroke:none;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:5;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+              :class="finEstadoEmpujeTransversal"
               id="rect8677-2-8-2-8-7-9-6"
               width="305.73904"
               height="38.136524"
@@ -1852,36 +1852,208 @@ export default {
 
   data: () => ({
     comMqtt: {
-      movCilindro1: 0.00,
-      empujeTransversal: false
+      movCilindro1: 50.00,
+      movCilindro2: 60.00,
+      movCilindro3: 70.00,
+      movCilindro4: 80.00,
+      empTransversal: false,
+      empSujetaChapa: false,
+      empCuchillo: true,
+      regCuchillo: false,
+      regSujetaChapa: false,
+      regTransversal: true,
+      finEmpTransversal: true,
+      finEmpSujetaChapa: false,
+      finEmpCuchillo: false,
+      finRegCuchillo: true,
+      finRegSujetaChapa: false,
+      finRegTransversal: true,
+      posicionFca1: true,
+      posicionFcb1: true,
+      posicionFcc1: true,
+      posicionFcd1: true,
+      posicionFca4: true,
+      posicionFcc5: true
     }
   }),
 
   computed: {
     estadoEmpujeTransversal () {
-      return this.comMqtt.empujeTransversal ? { 'ciclo-on': true } : { 'ciclo-off': true }
+      return this.comMqtt.empTransversal ? { 'ciclo-on': true } : { 'ciclo-off': true }
+    },
+    estadoEmpujeSujetaChapa () {
+      return this.comMqtt.empSujetaChapa ? { 'ciclo-on': true } : { 'ciclo-off': true }
+    },
+    estadoEmpujeCuchillo () {
+      return this.comMqtt.empCuchillo ? { 'ciclo-on': true } : { 'ciclo-off': true }
+    },
+    estadoRegresoCuchillo () {
+      return this.comMqtt.regCuchillo ? { 'ciclo-on': true } : { 'ciclo-off': true }
+    },
+    estadoRegresoSujetaChapa () {
+      return this.comMqtt.regSujetaChapa ? { 'ciclo-on': true } : { 'ciclo-off': true }
+    },
+    estadoRegresoTransversal () {
+      return this.comMqtt.regTransversal ? { 'ciclo-on': true } : { 'ciclo-off': true }
+    },
+    finEstadoEmpujeTransversal () {
+      return this.comMqtt.finEmpTransversal ? { 'ciclo-on': true } : { 'ciclo-off': true }
+    },
+    finEstadoEmpujeSujetaChapa () {
+      return this.comMqtt.finEmpSujetaChapa ? { 'ciclo-on': true } : { 'ciclo-off': true }
+    },
+    finEstadoEmpujeCuchillo () {
+      return this.comMqtt.finEmpCuchillo ? { 'ciclo-on': true } : { 'ciclo-off': true }
+    },
+    finEstadoRegresoCuchillo () {
+      return this.comMqtt.finRegCuchillo ? { 'ciclo-on': true } : { 'ciclo-off': true }
+    },
+    finEstadoRegresoSujetaChapa () {
+      return this.comMqtt.finRegSujetaChapa ? { 'ciclo-on': true } : { 'ciclo-off': true }
+    },
+    finEstadoRegresoTransversal () {
+      return this.comMqtt.finRegTransversal ? { 'ciclo-on': true } : { 'ciclo-off': true }
+    },
+    limiteFca1 () {
+      return this.comMqtt.posicionFca1 ? { 'posicion-on': true } : { 'posicion-off': true }
+    },
+    limiteFcb1 () {
+      return this.comMqtt.posicionFcb1 ? { 'posicion-on': true } : { 'posicion-off': true }
+    },
+    limiteFcc1 () {
+      return this.comMqtt.posicionFcc1 ? { 'posicion-on': true } : { 'posicion-off': true }
+    },
+    limiteFcd1 () {
+      return this.comMqtt.posicionFcd1 ? { 'posicion-on': true } : { 'posicion-off': true }
+    },
+    limiteFca4 () {
+      return this.comMqtt.posicionFca4 ? { 'posicion-on': true } : { 'posicion-off': true }
+    },
+    limiteFcc4 () {
+      return this.comMqtt.posicionFcc5 ? { 'posicion-on': true } : { 'posicion-off': true }
     }
   },
 
   mqtt: {
-    'nivelMw' (data) {
+    'posicionTransversal' (data) {
       this.comMqtt.movCilindro1 = JSON.parse(data.toString()) * 1.66
     },
-    'Entrada_6' (data) {
-      this.comMqtt.empujeTransversal = JSON.parse(data.toString()) === 1
+    'posicionSujetaChapa' (data) {
+      this.comMqtt.movCilindro2 = JSON.parse(data.toString()) * 1.66
+    },
+    'posicionCuchillo' (data) {
+      this.comMqtt.movCilindro3 = JSON.parse(data.toString()) * 1.66
+    },
+    'posicionPortelon' (data) {
+      this.comMqtt.movCilindro4 = JSON.parse(data.toString()) * 1.66
+    },
+    'empujeTransversal' (data) {
+      this.comMqtt.empTransversal = JSON.parse(data.toString()) === 1
+    },
+    'empujeSujetaChapa' (data) {
+      this.comMqtt.empSujetaChapa = JSON.parse(data.toString()) === 1
+    },
+    'empujeCuchillo' (data) {
+      this.comMqtt.empCuchillo = JSON.parse(data.toString()) === 1
+    },
+    'regresoCuchillo' (data) {
+      this.comMqtt.regCuchillo = JSON.parse(data.toString()) === 1
+    },
+    'regresoSujetaChapa' (data) {
+      this.comMqtt.regSujetaChapa = JSON.parse(data.toString()) === 1
+    },
+    'regresoTransversal' (data) {
+      this.comMqtt.regTransversal = JSON.parse(data.toString()) === 1
+    },
+    'finEmpujeTransversal' (data) {
+      this.comMqtt.finEmpTransversal = JSON.parse(data.toString()) === 1
+    },
+    'finEmpujeSujetaChapa' (data) {
+      this.comMqtt.finEmpSujetaChapa = JSON.parse(data.toString()) === 1
+    },
+    'finEmpujeCuchillo' (data) {
+      this.comMqtt.finEmpCuchillo = JSON.parse(data.toString()) === 1
+    },
+    'finRegresoCuchillo' (data) {
+      this.comMqtt.finRegCuchillo = JSON.parse(data.toString()) === 1
+    },
+    'finRegresoSujetaChapa' (data) {
+      this.comMqtt.finRegSujetaChapa = JSON.parse(data.toString()) === 1
+    },
+    'finRegresoTransversal' (data) {
+      this.comMqtt.finRegTransversal = JSON.parse(data.toString()) === 1
+    },
+    'estadoFca1' (data) {
+      this.comMqtt.posicionFca1 = JSON.parse(data.toString()) === 1
+    },
+    'estadoFcb1' (data) {
+      this.comMqtt.posicionFcb1 = JSON.parse(data.toString()) === 1
+    },
+    'estadoFcc1' (data) {
+      this.comMqtt.posicionFcc1 = JSON.parse(data.toString()) === 1
+    },
+    'estadoFcd1' (data) {
+      this.comMqtt.posicionFcd1 = JSON.parse(data.toString()) === 1
+    },
+    'estadoFca4' (data) {
+      this.comMqtt.posicionFca4 = JSON.parse(data.toString()) === 1
+    },
+    'estadoFcc5' (data) {
+      this.comMqtt.posicionFcc5 = JSON.parse(data.toString()) === 1
     }
   },
 
   mounted () {
-    this.$mqtt.subscribe('nivelMw')
-    this.$mqtt.subscribe('Entrada_6')
+    this.$mqtt.subscribe('posicionTransversal')
+    this.$mqtt.subscribe('posicionSujetaChapa')
+    this.$mqtt.subscribe('posicionCuchillo')
+    this.$mqtt.subscribe('posicionPortelon')
+    this.$mqtt.subscribe('empujeTransversal')
+    this.$mqtt.subscribe('empujeSujetaChapa')
+    this.$mqtt.subscribe('empujeCuchillo')
+    this.$mqtt.subscribe('regresoCuchillo')
+    this.$mqtt.subscribe('regresoSujetaChapa')
+    this.$mqtt.subscribe('regresoTransversal')
+    this.$mqtt.subscribe('finEmpujeTransversal')
+    this.$mqtt.subscribe('finEmpujeSujetaChapa')
+    this.$mqtt.subscribe('finEmpujeCuchillo')
+    this.$mqtt.subscribe('finRegresoCuchillo')
+    this.$mqtt.subscribe('finRegresoSujetaChapa')
+    this.$mqtt.subscribe('finRegresoTransversal')
+    this.$mqtt.subscribe('estadoFca1')
+    this.$mqtt.subscribe('estadoFcb1')
+    this.$mqtt.subscribe('estadoFcc1')
+    this.$mqtt.subscribe('estadoFcd1')
+    this.$mqtt.subscribe('estadoFca4')
+    this.$mqtt.subscribe('estadoFcc5')
   },
 
   destroyed () {
-    this.$mqtt.unsubscribe('nivelMw')
-    this.$mqtt.unsubscribe('Entrada_6')
+    this.$mqtt.unsubscribe('posicionTransversal')
+    this.$mqtt.unsubscribe('posicionSujetaChapa')
+    this.$mqtt.unsubscribe('posicionCuchillo')
+    this.$mqtt.unsubscribe('posicionPortelon')
+    this.$mqtt.unsubscribe('empujeTransversal')
+    this.$mqtt.unsubscribe('empujeSujetaChapa')
+    this.$mqtt.unsubscribe('empujeCuchillo')
+    this.$mqtt.unsubscribe('regresoCuchillo')
+    this.$mqtt.unsubscribe('regresoSujetaChapa')
+    this.$mqtt.unsubscribe('regresoTransversal')
+    this.$mqtt.unsubscribe('finEmpujeTransversal')
+    this.$mqtt.unsubscribe('finEmpujeSujetaChapa')
+    this.$mqtt.unsubscribe('finEmpujeCuchillo')
+    this.$mqtt.unsubscribe('finRegresoCuchillo')
+    this.$mqtt.unsubscribe('finRegresoSujetaChapa')
+    this.$mqtt.unsubscribe('finRegresoTransversal')
+    this.$mqtt.unsubscribe('estadoFca1')
+    this.$mqtt.unsubscribe('estadoFcb1')
+    this.$mqtt.unsubscribe('estadoFcc1')
+    this.$mqtt.unsubscribe('estadoFcd1')
+    this.$mqtt.unsubscribe('estadoFca4')
+    this.$mqtt.unsubscribe('estadoFcc5')
   }
 }
+
 </script>
 
 <style lang="stylus" scoped>
@@ -1891,11 +2063,20 @@ export default {
   }
 
   .ciclo-off {
-    fill: rgb(34, 32, 25);
-    fill-opacity: 0.235714;
+    fill: #9E9E9E;
   }
 
   .ciclo-on {
-    fill: #1ed2c1;
+   fill: #ea5a4f;
   }
+
+  .posicion-off {
+    fill:  rgb(34, 32, 25);
+    fill-opacity: 0.235714;
+  }
+
+  .posicion-on {
+    fill:  #0fa715;
+  }
+
 </style>

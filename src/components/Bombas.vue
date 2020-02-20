@@ -4305,7 +4305,7 @@
             height="74.499695"
             width="352.2868"
             id="rect1014"
-            style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.725;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#00d595;fill-opacity:0.8857143;fill-rule:evenodd;stroke:none;stroke-width:0.35433072;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:5;stroke-opacity:1;filter:url(#filter7743);color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+            style="fill: #CDDC39;" />
           <text
             sodipodi:linespacing="105.99999%"
             id="text912"
@@ -4393,7 +4393,7 @@
               y="652.33667"
               x="275.18533"
               id="tspan914-4-6-2-4"
-              sodipodi:role="line">0.00</tspan></text>
+              sodipodi:role="line">{{temperaturaAceite}}</tspan></text>
           <text
             sodipodi:linespacing="105.99999%"
             id="text912-2-48"
@@ -4407,7 +4407,7 @@
               sodipodi:role="line">BAR</tspan></text>
         </g>
         <rect
-          style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.728;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#00d596;fill-opacity:0.8857143;fill-rule:evenodd;stroke:none;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:5;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+          style="fill: #CDDC39;"
           id="rect1014-8"
           width="312.2868"
           height="36.663582"
@@ -4445,7 +4445,7 @@
             sodipodi:role="line"
             id="tspan914-4-6-1"
             x="666.51392"
-            y="543.66101">0.00</tspan></text>
+            y="543.66101">{{horasTrabajo}}</tspan></text>
         <text
           xml:space="preserve"
           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;line-height:105.99999428%;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -4455,9 +4455,9 @@
           sodipodi:linespacing="105.99999%"><tspan
             sodipodi:role="line"
             id="tspan914-9-7"
-            x="59.097687"
+            x="40"
             y="780.69312"
-            style="font-size:17.5px">MOTOR  1</tspan></text>
+            style="font-size:17.5px">MOTOBOMBA 1</tspan></text>
         <text
           xml:space="preserve"
           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;line-height:105.99999428%;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -4467,9 +4467,9 @@
           sodipodi:linespacing="105.99999%"><tspan
             sodipodi:role="line"
             id="tspan914-9-7-8"
-            x="231.27734"
+            x="210.277"
             y="779.75867"
-            style="font-size:17.5px">MOTOR  2</tspan></text>
+            style="font-size:17.5px">MOTOBOMBA 2</tspan></text>
         <text
           xml:space="preserve"
           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;line-height:105.99999428%;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -4479,9 +4479,9 @@
           sodipodi:linespacing="105.99999%"><tspan
             sodipodi:role="line"
             id="tspan914-9-7-5"
-            x="399.64795"
+            x="380.647"
             y="779.75867"
-            style="font-size:17.5px">MOTOR  3</tspan></text>
+            style="font-size:17.5px">MOTOBOMBA 3</tspan></text>
         <text
           xml:space="preserve"
           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;line-height:105.99999428%;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -4491,9 +4491,9 @@
           sodipodi:linespacing="105.99999%"><tspan
             sodipodi:role="line"
             id="tspan914-9-7-4"
-            x="564.14038"
+            x="545.14"
             y="780.72821"
-            style="font-size:17.5px">MOTOR  4</tspan></text>
+            style="font-size:17.5px">MOTOBOMBA 4</tspan></text>
         <rect
           style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.69800002;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#30d500;fill-opacity:0.8857143;fill-rule:evenodd;stroke:none;stroke-width:0.27000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:5;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
           id="rect6451"
@@ -4510,7 +4510,7 @@
             height="85.862976"
             width="186.87823"
             id="rect6453"
-            style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.69800002;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#fff2f0;fill-opacity:0.8857143;fill-rule:evenodd;stroke:none;stroke-width:0.27000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:5;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+            style="fill: rgb(255, 242, 240);" />
           <text
             sodipodi:linespacing="105.99999%"
             id="text912-4-4"
@@ -4539,14 +4539,14 @@
             height="24.243662"
             width="32.324879"
             id="rect6498"
-            style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.69800002;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#30d500;fill-opacity:0.88627451;fill-rule:evenodd;stroke:none;stroke-width:0.27000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:5;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+            style="fill: #7FFF00;" />
           <rect
             y="701.04596"
             x="703.49518"
             height="24.243662"
             width="32.324879"
             id="rect6498-3"
-            style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.98600003;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#fe0200;fill-opacity:0.96598636;fill-rule:evenodd;stroke:none;stroke-width:0.27000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:5;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+            style="fill: red;" />
         </g>
         <rect
           :class="estadoS1A"
@@ -4567,7 +4567,7 @@
             id="tspan914-9-2"
             x="46.813408"
             y="1008.3175"
-            style="fill:#000000;fill-opacity:1">SELENOIDES M1</tspan></text>
+            style="fill:#000000;fill-opacity:1">SELENOIDES MB1</tspan></text>
         <text
           xml:space="preserve"
           style="font-style:normal;font-weight:normal;font-size:15px;line-height:105.99999428%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -4599,7 +4599,7 @@
             x="127.14662"
             y="1040.3149">S1B</tspan></text>
         <rect
-          style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#222019;fill-opacity:0.2357143;fill-rule:evenodd;stroke:none;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:5;stroke-opacity:1;filter:url(#filter8835-4-1-3);color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+          :class="estadoS3A"
           id="rect8677-2-8-7"
           width="26.074308"
           height="22.441427"
@@ -4617,7 +4617,7 @@
             id="tspan914-9-2-6"
             x="228.5867"
             y="1006.5629"
-            style="fill:#000000;fill-opacity:1">SELENOIDES M2</tspan></text>
+            style="fill:#000000;fill-opacity:1">SELENOIDES MB2</tspan></text>
         <text
           xml:space="preserve"
           style="font-style:normal;font-weight:normal;font-size:15px;line-height:105.99999428%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -4630,7 +4630,7 @@
             x="239.54276"
             y="1038.316">S3A</tspan></text>
         <rect
-          style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#222019;fill-opacity:0.2357143;fill-rule:evenodd;stroke:none;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:5;stroke-opacity:1;filter:url(#filter8835-4-1-5-7);color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+         :class="estadoS3B"
           id="rect8677-2-8-2-1"
           width="26.074308"
           height="22.441427"
@@ -4649,7 +4649,7 @@
             x="308.91992"
             y="1038.5603">S3B</tspan></text>
         <rect
-          style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#222019;fill-opacity:0.2357143;fill-rule:evenodd;stroke:none;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:5;stroke-opacity:1;filter:url(#filter8835-4-1-7);color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+          :class="estadoS5A"
           id="rect8677-2-8-77"
           width="26.074308"
           height="22.441427"
@@ -4667,7 +4667,7 @@
             id="tspan914-9-2-8"
             x="396.44385"
             y="1007.9915"
-            style="fill:#000000;fill-opacity:1">SELENOIDES M3</tspan></text>
+            style="fill:#000000;fill-opacity:1">SELENOIDES MB3</tspan></text>
         <text
           xml:space="preserve"
           style="font-style:normal;font-weight:normal;font-size:15px;line-height:105.99999428%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -4680,7 +4680,7 @@
             x="407.3999"
             y="1039.7448">S5A</tspan></text>
         <rect
-          style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#222019;fill-opacity:0.2357143;fill-rule:evenodd;stroke:none;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:5;stroke-opacity:1;filter:url(#filter8835-4-1-5-72);color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+          :class="estadoS5B"
           id="rect8677-2-8-2-6"
           width="26.074308"
           height="22.441427"
@@ -4699,7 +4699,7 @@
             x="476.77707"
             y="1039.989">S5B</tspan></text>
         <rect
-          style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#222019;fill-opacity:0.2357143;fill-rule:evenodd;stroke:none;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:5;stroke-opacity:1;filter:url(#filter8835-4-1-8);color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+          :class="estadoS7A"
           id="rect8677-2-8-3"
           width="26.074308"
           height="22.441427"
@@ -4717,7 +4717,7 @@
             id="tspan914-9-2-9"
             x="562.91724"
             y="1005.9124"
-            style="fill:#000000;fill-opacity:1">SELENOIDES M4</tspan></text>
+            style="fill:#000000;fill-opacity:1">SELENOIDES MB4</tspan></text>
         <text
           xml:space="preserve"
           style="font-style:normal;font-weight:normal;font-size:15px;line-height:105.99999428%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -4730,7 +4730,7 @@
             x="573.87329"
             y="1037.6655">S7A</tspan></text>
         <rect
-          style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#222019;fill-opacity:0.2357143;fill-rule:evenodd;stroke:none;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:5;stroke-opacity:1;filter:url(#filter8835-4-1-5-5);color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+          :class="estadoS7B"
           id="rect8677-2-8-2-0"
           width="26.074308"
           height="22.441427"
@@ -4760,7 +4760,7 @@
             x="304.28571"
             y="1033.7908" /></text>
         <rect
-          style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.728;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#00d596;fill-opacity:0.8857143;fill-rule:evenodd;stroke:none;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:5;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+          style="fill: #CDDC39;"
           id="rect1014-8-6"
           width="312.2868"
           height="36.663582"
@@ -4776,7 +4776,7 @@
             sodipodi:role="line"
             id="tspan914-9-8"
             x="470.72852"
-            y="582.89197">LONGITUD DEL CORTE</tspan></text>
+            y="582.89197">LONGITUD DEL CORTE:</tspan></text>
         <text
           xml:space="preserve"
           style="font-style:normal;font-weight:normal;font-size:15px;line-height:105.99999428%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -4787,12 +4787,12 @@
             sodipodi:role="line"
             id="tspan914-4-6-1-4"
             x="666.51392"
-            y="582.32458">0.00</tspan></text>
+            y="582.32458">{{longitudCorte}}  mm</tspan></text>
         <image
           y="508.99548"
           x="796.07764"
           id="image2246"
-          xlink:href="data:image/png;base64,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"
+          xlink:href="statics/Andec.png"
           preserveAspectRatio="none"
           height="85.14286"
           width="99.000023" />
@@ -4834,19 +4834,63 @@ export default {
       type: Boolean,
       default: false
     },
-    S1A: {
+    fallaBomba3: {
       type: Boolean,
       default: false
     },
-    S1B: {
+    fallaBomba4: {
       type: Boolean,
       default: false
+    },
+    s1A: {
+      type: Boolean,
+      default: false
+    },
+    s1B: {
+      type: Boolean,
+      default: false
+    },
+    s3A: {
+      type: Boolean,
+      default: false
+    },
+    s3B: {
+      type: Boolean,
+      default: false
+    },
+    s5A: {
+      type: Boolean,
+      default: false
+    },
+    s5B: {
+      type: Boolean,
+      default: false
+    },
+    s7A: {
+      type: Boolean,
+      default: false
+    },
+    s7B: {
+      type: Boolean,
+      default: false
+    },
+    presionLinea: {
+      type: Number,
+      default: 0.00
     },
     presionAcumulador: {
       type: Number,
       default: 0.00
     },
-    presionLinea: {
+    temperaturaAceite: {
+      type: Number,
+      default: 0.00
+    },
+    horasTrabajo: {
+      type: Number,
+      default: 0.00
+    },
+    longitudCorte: {
       type: Number,
       default: 0.00
     }
@@ -4870,19 +4914,42 @@ export default {
     },
 
     estadoBomba3 () {
+      if (!this.fallaBomba3) {
+        return { 'alarma': true }
+      }
       return this.bomba3 ? { 'bomba-on': true } : { 'bomba-off': true }
     },
 
     estadoBomba4 () {
+      if (!this.fallaBomba4) {
+        return { 'alarma': true }
+      }
       return this.bomba4 ? { 'bomba-on': true } : { 'bomba-off': true }
     },
 
     estadoS1A () {
-      return this.S1A ? { 'solenoide-on': true } : { 'solenoide-off': true }
+      return this.s1A ? { 'solenoide-on': true } : { 'solenoide-off': true }
     },
-
     estadoS1B () {
-      return this.S1B ? { 'solenoide-on': true } : { 'solenoide-off': true }
+      return this.s1B ? { 'solenoide-on': true } : { 'solenoide-off': true }
+    },
+    estadoS3A () {
+      return this.s3A ? { 'solenoide-on': true } : { 'solenoide-off': true }
+    },
+    estadoS3B () {
+      return this.s3B ? { 'solenoide-on': true } : { 'solenoide-off': true }
+    },
+    estadoS5A () {
+      return this.s5A ? { 'solenoide-on': true } : { 'solenoide-off': true }
+    },
+    estadoS5B () {
+      return this.s5B ? { 'solenoide-on': true } : { 'solenoide-off': true }
+    },
+    estadoS7A () {
+      return this.s7A ? { 'solenoide-on': true } : { 'solenoide-off': true }
+    },
+    estadoS7B () {
+      return this.s7B ? { 'solenoide-on': true } : { 'solenoide-off': true }
     }
   }
 }
