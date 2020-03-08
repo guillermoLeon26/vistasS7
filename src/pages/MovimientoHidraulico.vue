@@ -874,7 +874,7 @@
               style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ef3e0a;fill-opacity:1;fill-rule:nonzero;stroke:#262e0a;stroke-width:0.50002557;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:5.30000019;stroke-dasharray:2.00010261, 2.00010261;stroke-dashoffset:0;stroke-opacity:0;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
               id="rect12985-1"
               width="15.8"
-              :height="comMqtt.movCilindro1"
+              :height="comMqtt.posCilindro1"
               x="-582.5"
               y="173.7316"
               inkscape:label="{&quot;attr&quot;:&quot;bar&quot;,&quot;max&quot;:100,&quot;min&quot;:0,&quot;tag&quot;:&quot;Nivel_Tqe&quot;}"
@@ -1046,7 +1046,7 @@
               style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ef3e0a;fill-opacity:1;fill-rule:nonzero;stroke:#262e0a;stroke-width:0.50002557;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:5.30000019;stroke-dasharray:2.00010261, 2.00010261;stroke-dashoffset:0;stroke-opacity:0;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
               id="rect12985-1-1"
               width="15.8"
-              :height="comMqtt.movCilindro2"
+              :height="comMqtt.posCilindro2"
               x="-632.5"
               y="172.97305"
               inkscape:label="{&quot;attr&quot;:&quot;bar&quot;,&quot;max&quot;:100,&quot;min&quot;:0,&quot;tag&quot;:&quot;Nivel_Tqe&quot;}"
@@ -1218,7 +1218,7 @@
               style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ef3e0a;fill-opacity:1;fill-rule:nonzero;stroke:#262e0a;stroke-width:0.50002557;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:5.30000019;stroke-dasharray:2.00010261, 2.00010261;stroke-dashoffset:0;stroke-opacity:0;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
               id="rect12985-1-0"
               width="15.80"
-              :height="comMqtt.movCilindro3"
+              :height="comMqtt.posCilindro3"
               x="-683.5"
               y="174.10052"
               inkscape:label="{&quot;attr&quot;:&quot;bar&quot;,&quot;max&quot;:100,&quot;min&quot;:0,&quot;tag&quot;:&quot;Nivel_Tqe&quot;}"
@@ -1390,7 +1390,7 @@
               style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ef3e0a;fill-opacity:1;fill-rule:nonzero;stroke:#262e0a;stroke-width:0.50002557;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:5.30000019;stroke-dasharray:2.00010261, 2.00010261;stroke-dashoffset:0;stroke-opacity:0;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
               id="rect12985-1-4"
               width="15.8"
-              :height="comMqtt.movCilindro4"
+              :height="comMqtt.posCilindro4"
               x="-737.5"
               y="175.22252"
               inkscape:label="{&quot;attr&quot;:&quot;bar&quot;,&quot;max&quot;:100,&quot;min&quot;:0,&quot;tag&quot;:&quot;Nivel_Tqe&quot;}"
@@ -1856,6 +1856,10 @@ export default {
       movCilindro2: 60.00,
       movCilindro3: 70.00,
       movCilindro4: 80.00,
+      posCilindro1: 50.00,
+      posCilindro2: 60.00,
+      posCilindro3: 70.00,
+      posCilindro4: 80.00,
       empTransversal: false,
       empSujetaChapa: false,
       empCuchillo: true,
@@ -1936,16 +1940,20 @@ export default {
 
   mqtt: {
     'posicionTransversal' (data) {
-      this.comMqtt.movCilindro1 = JSON.parse(data.toString()) * 1.66
+      this.comMqtt.movCilindro1 = JSON.parse(data.toString())
+      this.comMqtt.posCilindro1 = JSON.parse(data.toString()) * 1.66
     },
     'posicionSujetaChapa' (data) {
-      this.comMqtt.movCilindro2 = JSON.parse(data.toString()) * 1.66
+      this.comMqtt.movCilindro2 = JSON.parse(data.toString())
+      this.comMqtt.posCilindro2 = JSON.parse(data.toString()) * 1.66
     },
     'posicionCuchillo' (data) {
-      this.comMqtt.movCilindro3 = JSON.parse(data.toString()) * 1.66
+      this.comMqtt.movCilindro3 = JSON.parse(data.toString())
+      this.comMqtt.posCilindro3 = JSON.parse(data.toString()) * 1.66
     },
     'posicionPortelon' (data) {
-      this.comMqtt.movCilindro4 = JSON.parse(data.toString()) * 1.66
+      this.comMqtt.movCilindro4 = JSON.parse(data.toString())
+      this.comMqtt.posCilindro4 = JSON.parse(data.toString()) * 1.66
     },
     'empujeTransversal' (data) {
       this.comMqtt.empTransversal = JSON.parse(data.toString()) === 1

@@ -4567,7 +4567,7 @@
             id="tspan914-9-2"
             x="46.813408"
             y="1008.3175"
-            style="fill:#000000;fill-opacity:1">SELENOIDES MB1</tspan></text>
+            style="fill:white; font-weight: bold;">SELENOIDES MB1</tspan></text>
         <text
           xml:space="preserve"
           style="font-style:normal;font-weight:normal;font-size:15px;line-height:105.99999428%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -4617,7 +4617,7 @@
             id="tspan914-9-2-6"
             x="228.5867"
             y="1006.5629"
-            style="fill:#000000;fill-opacity:1">SELENOIDES MB2</tspan></text>
+            style="fill:white; font-weight: bold;">SELENOIDES MB2</tspan></text>
         <text
           xml:space="preserve"
           style="font-style:normal;font-weight:normal;font-size:15px;line-height:105.99999428%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -4667,7 +4667,7 @@
             id="tspan914-9-2-8"
             x="396.44385"
             y="1007.9915"
-            style="fill:#000000;fill-opacity:1">SELENOIDES MB3</tspan></text>
+            style="fill:white; font-weight: bold;">SELENOIDES MB3</tspan></text>
         <text
           xml:space="preserve"
           style="font-style:normal;font-weight:normal;font-size:15px;line-height:105.99999428%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -4717,7 +4717,7 @@
             id="tspan914-9-2-9"
             x="562.91724"
             y="1005.9124"
-            style="fill:#000000;fill-opacity:1">SELENOIDES MB4</tspan></text>
+            style="fill:white; font-weight: bold;">SELENOIDES MB4</tspan></text>
         <text
           xml:space="preserve"
           style="font-style:normal;font-weight:normal;font-size:15px;line-height:105.99999428%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -4974,8 +4974,7 @@ export default {
   }
 
   .solenoide-off {
-    fill: rgb(34, 32, 25);
-    fill-opacity: 0.235714;
+    fill: rgb(193, 213, 224);
   }
 
   .solenoide-on {

@@ -333,7 +333,7 @@ export default {
 
   destroyed () {
     this.$mqtt.unsubscribe('motorBomba1On')
-    this.$mqtt.ununsubscribe('motorBomba2On')
+    this.$mqtt.unsubscribe('motorBomba2On')
     this.$mqtt.unsubscribe('motorBomba3On')
     this.$mqtt.unsubscribe('motorBomba4On')
     this.$mqtt.unsubscribe('motorBomba1Falla')
